@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/main-hesflay/All-Projects.git](https://github.com/main-hesflay/All-Projects.git)
 
-- 📝 I regularly write articles on [https://hesflay.medium.com/](https://hesflay.medium.com/)
+- 📝 I regularly write articles on [https://hesflay.medium.com/]
 
 - 💬 Ask me about **Go, Html, Css, XD**
 
