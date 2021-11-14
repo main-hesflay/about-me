@@ -32,7 +32,7 @@
 <a href="https://twitter.com/hesflay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hesflay" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/onat-dibo-7205aa213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onat-dibo-7205aa213" height="30" width="40" /></a>
 <a href="https://instagram.com/hesflay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hesflay" height="30" width="40" /></a>
-<a href="https://medium.com/hesflay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hesflay" height="30" width="40" /></a>
+<a href="https://medium.com/@hesflay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hesflay" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
