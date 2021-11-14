@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=main-hesflay&label=Profile%20views&color=0e75b6&style=flat" alt="main-hesflay" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=main-hesflay" alt="main-hesflay" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/hesflay" target="blank"><img src="https://img.shields.io/twitter/follow/hesflay?logo=twitter&style=for-the-badge" alt="hesflay" /></a> </p>
 
 - 🔭 I’m currently working on [Go](https://github.com/main-hesflay/go.git)
