@@ -38,5 +38,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=main-hesflay&show_icons=true&locale=en&layout=compact" alt="main-hesflay" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=main-hesflay&show_icons=true&locale=en" alt="main-hesflay" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=main-hesflay&" alt="main-hesflay" /></p>
