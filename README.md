@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hesflay</h1>
 <h3 align="center">I'm very interested in cyber security and have a passion for software.</h3>
 
-<p align="left"> <a href="https://twitter.com/hesflay" target="blank"><img src="https://img.shields.io/twitter/follow/hesflay?logo=twitter&style=for-the-badge" alt="hesflay" /></a> </p>
-
 - 🔭 I’m currently working on [Go](https://github.com/main-hesflay/go.git)
 
 - 🌱 I’m currently learning **Go Tutorial**
