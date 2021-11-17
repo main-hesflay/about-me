@@ -4,7 +4,7 @@
 <h3 >Software Developer, Cyber Security, CTF Solver
 
 My experiences are including:
-- Go - HTML - CSS
+- Go - HTML - CSS - JS
 - test
 - test
 - test
