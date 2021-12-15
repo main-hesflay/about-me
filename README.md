@@ -3,14 +3,11 @@
 
 <h3 >Software Developer, Cyber Security, CTF Solver
 
-My experiences are including:
-- Go - HTML - CSS - JS
-- test
-- test
-- test
-- test
-- test
-- test. </h3>
+my Interests:
+- GO
+- HTML
+- CSS
+- JS </h3>
 
 <h3 align="center">Contact Information:</h2>
 <p align="center">
