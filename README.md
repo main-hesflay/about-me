@@ -7,6 +7,7 @@ my Interests:
 - GO
 - HTML
 - CSS
+- Bootstrap
 - JS </h3>
 
 <h3 align="center">Contact Information:</h2>
