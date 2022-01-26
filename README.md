@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Onat Dibo</h1>
 <h4 align="center" >21 y/o Software Developer </h2>
 
-<h4>Projelerime bakmak istersen</h4>
-<a href="https://github.com/main-hesflay?tab=repositories">Tıkla</a>
+<h4 aliggn="center">Projelerime bakmak istersen</h4>
+<a href="https://github.com/main-hesflay?tab=repositories" text-center>Tıkla</a>
 
 <h3 >Software Developer, Cyber Security, CTF Solver
 
