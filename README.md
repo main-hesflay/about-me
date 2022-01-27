@@ -2,7 +2,7 @@
 <h4 align="center" >21 y/o Software Developer </h2>
 
 <h4 align="center">Click for projects
-  <a href="https://github.com/main-hesflay?tab=repositories">Tıkla</a>
+  <a href="https://github.com/main-hesflay?tab=repositories">Click</a>
 </h4>
 
 <h3 >Software Developer, Cyber Security, CTF Solver
