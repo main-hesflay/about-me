@@ -5,17 +5,9 @@
   <a href="https://github.com/main-hesflay?tab=repositories">Click</a>
 </h4>
 
-<h3 >Software Developer, Cyber Security, CTF Solver
-
-my Interests:
-- GO
-- HTML
-- CSS
-- BOOTSTRAP
-- JAVASCRIPT </h3>
-
-<h3>Patika.dev</h3>
-<a href="https://github.com/main-hesflay/patika.dev">Click</a>
+<h3 align="center">Software Developer, Cyber Security, CTF Solver
+<h3 align="center">Patika.dev</h3>
+<a align="center" href="https://github.com/main-hesflay/patika.dev">Click</a>
 
 <h3 align="center">Contact Information:</h2>
 <p align="center">
