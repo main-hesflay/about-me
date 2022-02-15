@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Onat Dibo</h1>
+<h3 align="center">Software Developer, Cyber Security, CTF Solver
+  <br>
 <h4 align="center" >Front-End Developer </h2>
 
 <h4 align="center">Click for projects
   <a href="https://github.com/main-hesflay?tab=repositories">Click</a>
 </h4>
 
-<h3 align="center">Software Developer, Cyber Security, CTF Solver
 <h4 align="center">Patika.dev
 <a align="center" href="https://github.com/main-hesflay/patika.dev">Click</a>
 </h4>
