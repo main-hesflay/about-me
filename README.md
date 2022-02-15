@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onat Dibo</h1>
 <h3 align="center">Front-End Developer</h3>
-<h4 align="center" >Front-End Developer </h2>
 
 <h4 align="center">Click for projects
   <a href="https://github.com/main-hesflay?tab=repositories">Click</a>
