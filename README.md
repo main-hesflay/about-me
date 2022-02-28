@@ -9,7 +9,6 @@
 <a align="center" href="https://github.com/main-hesflay/patika.dev">Click</a>
 </h4>
   
-  <br>
   
 <h3 align="center">Contact Information:</h2>
 <p align="center">
@@ -19,7 +18,6 @@
   <a href="https://twitter.com/hesflay"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-<br>
 
 <h3 align="center">Languages and Tools:</h2>
 <p align="center">
@@ -33,10 +31,9 @@
 
 </p>
 
+
 <p align="center">
- 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=main-hesflay&layout=compact&hide=html&theme=radical" alt="main-hesflay"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=main-hesflay&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/>
-
 
 </p>
