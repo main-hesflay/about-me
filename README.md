@@ -6,12 +6,7 @@
 <h4 align="center">Click for projects
   <a href="https://github.com/main-hesflay?tab=repositories">Click</a>
 </h4>
-
-<h4 align="center">Patika.dev
-<a align="center" href="https://github.com/main-hesflay/patika.dev">Click</a>
-</h4>
-  
-  
+    
 <h3 align="center">Contact Information:</h2>
 <p align="center">
   <a href="https://instagram.com/hesflay"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
