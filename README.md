@@ -2,10 +2,6 @@
 <h3 align="center">Front-End Developer</h3>
 <h3 align="center">who am I?<h3>
 <p align="center">Hello everyone, my name is Onat, I am interested in cyber security and front-end developer, there is not much to tell, I wish everyone success :)</p>
-
-<h4 align="center">Click for projects
-  <a href="https://github.com/main-hesflay?tab=repositories">Click</a>
-</h4>
     
 <h3 align="center">Contact Information:</h2>
 <p align="center">
