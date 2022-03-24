@@ -3,7 +3,7 @@
 <h3 align="center">who am I?<h3>
 <p align="center">Hello everyone, my name is Onat, I am interested in cyber security and front-end developer, there is not much to tell, I wish everyone success :)</p>
     
-<h3 align="center">Contact Information:</h2>
+<h2 align="center">Contact Information:</h2>
 <p align="center">
   <a href="https://instagram.com/hesflay"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://hesflay.medium.com/"><img src="https://img.shields.io/badge/medium-9146FF.svg?style=for-the-badge&logo=medium&logoColor=white"/></a>
