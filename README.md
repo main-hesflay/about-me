@@ -9,6 +9,13 @@
   <a href="https://linkedin.com/in/onat-dibo-7205aa213"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/hesflay" target="_blank"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
+    
+    <h3 align="center">Donate me</h3>
+    
+ <div align="center">
+     <a align="center" href="https://www.buymeacoffee.com/onatdibo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+ </div
+
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -31,8 +38,3 @@
 
 </p>
     
-<h3 align="center">Donate me</h3>
-    
- <div align="center">
-     <a align="center" href="https://www.buymeacoffee.com/onatdibo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
- </div
