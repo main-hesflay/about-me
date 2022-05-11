@@ -15,7 +15,7 @@
     
  <div align="center">
      <a align="center" href="https://www.buymeacoffee.com/onatdibo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
- </div
+ </div>
 
 
 <h3 align="center">Languages and Tools:</h3>
