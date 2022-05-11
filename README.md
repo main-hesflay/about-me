@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Onat Dibo</h1>
 <h3 align="center">Front-End Developer</h3>
 <h2 align="center">Who am I?<h2>
-<p align="center">Hello everyone, my name is Onat, I am interested in cyber security and front-end developer, there is not much to tell, I wish everyone success :)</p>
+<p align="center">Hello everyone, my name is Onat, I am interested in cyber security and front-end developer.</p>
     
 <h3 align="center">Contact Information:</h3>
 <p align="center">
@@ -20,6 +20,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/go-original.svg" alt="bootstrap" width="30" height="30"/>
 
 </p>
 
