@@ -33,4 +33,4 @@
     
 <h3 align="center">Donate me</h3>
 
-<a href="https://www.buymeacoffee.com/onatdibo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a align="center" href="https://www.buymeacoffee.com/onatdibo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
