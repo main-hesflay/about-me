@@ -11,6 +11,11 @@
 </p>
     
 
+ <h3 align="center">Donate me</h3>
+    
+ <div align="center">
+     <a align="center" href="https://www.buymeacoffee.com/onatdibo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+ </div
 
 
 <h3 align="center">Languages and Tools:</h3>
