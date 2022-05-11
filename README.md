@@ -30,6 +30,3 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=onatdibo&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/>
 
 </p>
-
-    <h3>Donate</h3>
-    <a href="https://www.buymeacoffee.com/hesflay"><img src="https://img.shields.io/badge/coffee-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
