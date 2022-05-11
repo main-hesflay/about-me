@@ -26,6 +26,6 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onatdibo&layout=compact&hide=html&theme=radical" alt="main-hesflay"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=main-hesflay&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=onatdibo&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/>
 
 </p>
