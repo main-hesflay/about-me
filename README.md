@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Onat Dibo</h1>
-<h3 align="center">Front-End Developer</h3>
 <h2 align="center">Who am I ?<h2>
-<p align="center">Hello everyone, my name is Onat, I am interested in Cyber Security and Front-End Developer.</p>
+<p align="center">Hello everyone, my name is Onat, I am interested in Cyber Security</p>
     
 <h3 align="center">Contact Information:</h3>
 <p align="center">
