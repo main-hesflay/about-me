@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on Introduction to Network<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning golang
+🔭 I’m currently working on Introduction to Network <br>
+👯 I’m looking to collaborate on <br>
+🌱 I’m currently learning golang
 
 
 ## 🌐 Socials:
