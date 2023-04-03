@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi guys, I'm Onat, I'm interested in cyber security. Other than that, I'm decoding CTF in tryhackme
+Hi guys, I'm Onat, I'm interested in cyber security. Other than that, I'm decoding CTF in TryHackMe
 
 
 ## 🌐 Socials:
