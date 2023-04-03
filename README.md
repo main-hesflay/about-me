@@ -1,4 +1,6 @@
 # 💫 About Me:
+Hi guys, my name's Onat Dibo. I'm 22 years old. I'm interested in cyber security and web development
+
 🔭 I’m currently working on Introduction to Network <br>
 👯 I’m looking to collaborate on <br>
 🌱 I’m currently learning golang
