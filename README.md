@@ -1,31 +1,28 @@
-<h1 align="center">Hi 👋, I'm Onat Dibo</h1>
-<h2 align="center">Who am I ?<h2>
-<p align="center">Hello everyone, my name is Onat, I am interested in Cyber Security</p>
-    
- <h3 align="center">Donate me</h3>
-    
- <div align="center">
-     <a align="center" href="https://www.buymeacoffee.com/onatdibo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
- </div>
+# 💫 About Me:
+🔭 I’m currently working on Introduction to Network<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning golang
 
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
- 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="35" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="35" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="35" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="35" height="35"/>
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="35" height="35"/>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/onat-dibo/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hesflay) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/hesflay) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hesflay) 
 
-</p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=onatdibo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=onatdibo&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=onatdibo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=hesflay)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onatdibo&layout=compact&hide=html&theme=radical" alt="main-hesflay"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=onatdibo&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</p>
-    
+---
+[![](https://visitcount.itsvg.in/api?id=onatdibo&icon=5&color=9)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/onatdibo) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
