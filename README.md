@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🔐 About Me:
 Hi friends, I'm Onat, I've been dealing with Sibert security for 1 year and I've been getting certificates about it. Apart from these, I add something to myself by solving CTF in TryHackMe.
 
 ## 🌐 Socials:
