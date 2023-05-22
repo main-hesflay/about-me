@@ -11,7 +11,4 @@ Hi friends, I'm Onat, I've been dealing with Cyber Security for 1 year and I've 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=onatdibo&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=onatdibo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-  ### 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/onatdibo) 
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
